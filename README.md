@@ -1,2 +1,2 @@
 # test_repo
-for testing issue with rtfs protected file names
+for testing issue with ntfs protected file names
