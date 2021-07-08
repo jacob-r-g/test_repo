@@ -1,0 +1,10 @@
+{
+  "fileLocations": [
+    {
+      "URIs": [
+        "https://s3.amazonaws.com/data.arable.com/sagemaker-20200218/Customer_Data/loftusranches/daily_model_output.csv"
+      ]
+    }
+  ],
+  "globalUploadSettings": {}
+}
